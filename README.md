@@ -1,7 +1,5 @@
 # Lista de Tareas (Todo List)
 
-# Lista de Tareas (Todo List)
-
 Esta es una aplicación de lista de tareas desarrollada con **Vue.js**, **Vuetify** y **Go** (Golang), utilizando **MySQL** como base de datos.
 
 ## Requisitos
